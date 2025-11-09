@@ -21,10 +21,10 @@
   <a href="https://github.com/sanjeetkumarcodethrust">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+  <a href="https://www.linkedin.com/in/sanjeet-kumar-b2292a249/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-ID/">
+  <a href="https://leetcode.com/u/Sanju_code_beginer/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
@@ -85,7 +85,7 @@
 ### 🏆 LeetCode Stats (Optional)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-ID?theme=dark&font=Karma&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/https://Sanju_code_beginer?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 ---
