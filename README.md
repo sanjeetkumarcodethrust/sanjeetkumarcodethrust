@@ -83,11 +83,11 @@
 ### 📈 Profile Activity Tracker
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjeetkumarcodethrust&theme=onedark&no-frame=true&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjeetkumarcodethrust&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeetkumarcodethrust&label=Profile%20Views&color=blueviolet&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=sanjeetkumarcodethrust&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
