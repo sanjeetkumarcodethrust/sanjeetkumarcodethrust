@@ -33,8 +33,26 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,git,github,html,css,js,vscode,mysql,linux&perline=6"/>
+### 🧰 Tech Stack (Visual)
+
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
+
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,sass,bootstrap" />
+</p>
+
+#### ⚙️ Backend & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,aws,docker,kubernetes,nginx" />
+</p>
+
+#### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,git,github,postman,figma" />
 </p>
 
 ---
