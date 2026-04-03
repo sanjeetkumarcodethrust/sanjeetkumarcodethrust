@@ -10,8 +10,8 @@
 - 🔭 I’m currently learning **Competitive Programming (C++)** and **Data Science (Python)**
 - 🧠 Strong foundation in Data Structures & Algorithms
 - 🌱 Learning Express.js & Cloud Computing
-⚙️ Interested in API design, backend architecture & DevOps
-💬 Ask me about DSA, MERN / MEAN, backend logic
+- ⚙️ Interested in API design, backend architecture & DevOps
+- 💬 Ask me about DSA, MERN / MEAN, backend logic
 - 👯 I’m looking to collaborate on **Data Science Projects** and **Competitive Programming**
 - 🌱 Passionate about exploring **Machine Learning, AI, and Cloud Technologies**
 - 📫 Reach me at: **[sanjeetkum960@gmail.com](mailto:sanjeetkum960@gmail.com)**  
