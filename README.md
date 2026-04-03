@@ -94,32 +94,12 @@
 
 ### 🚀 Contribution Graph
 
-name: Generate Snake
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeetkumarcodethrust&theme=tokyo-night"/>
+</p>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sanjeetkumarcodethrust
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
+     
 
 ---
 
