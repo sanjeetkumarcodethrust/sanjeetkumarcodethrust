@@ -34,6 +34,9 @@
   <a href="https://www.geeksforgeeks.org/user/sanjeetcs8t/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
+  <a href="https://codeforces.com/profile/Sanju_code_beginer">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 </p>
 
 ---
