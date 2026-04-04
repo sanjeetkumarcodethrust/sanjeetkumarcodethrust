@@ -129,7 +129,16 @@
 </p>
 
 ---
+### 🏆 GeeksforGeeks Stats (Optiona2)
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/sanjeetcs8t/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-sanjeetcs8t-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeetkumarcodethrust&show_icons=true&theme=tokyonight" />
+</p>
 ### 💬 Quote of the Day
 > "Code is like humor. When you have to explain it, it’s bad."
 
