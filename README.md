@@ -1,7 +1,9 @@
 <!-- Sanjeet Kumar's GitHub Profile README -->
 
 <h1 align="center">👋 Hi, I'm Sanjeet Kumar</h1>
-<h3 align="center">🚀 Data Science | AI Enthusiast | Competitive Programmer</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Enthusiast;Competitive+Programmer;Building+Cool+Projects+🚀" />
+</h3>
 
 ---
 
