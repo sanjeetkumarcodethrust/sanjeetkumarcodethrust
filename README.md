@@ -117,7 +117,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeetkumarcodethrust&theme=tokyo-night"/>
 </p>
 
- 
+ ### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjeetkumarcodethrust/sanjeetkumarcodethrust/output/github-contribution-grid-snake-dark.svg" />
+</p>
      
 
 ---
