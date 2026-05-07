@@ -75,12 +75,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanjeetkumarcodethrust&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeetkumarcodethrust&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanjeetkumarcodethrust&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  
+  <img width="48%" src="https://streak-stats.demolab.com?user=sanjeetkumarcodethrust&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeetkumarcodethrust&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeetkumarcodethrust&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
