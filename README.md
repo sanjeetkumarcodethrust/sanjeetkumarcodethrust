@@ -142,9 +142,12 @@
   </a>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeetkumarcodethrust&show_icons=true&theme=tokyonight" />
-</p> -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sanjeetkumarcodethrust&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
+    height="180em" 
+  />
+</p>
 ---
 ### 💬 Quote of the Day
 > "Code is like humor. When you have to explain it, it’s bad."
