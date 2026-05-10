@@ -136,17 +136,16 @@
 
 ---
 ### 🏆 GeeksforGeeks Stats (Optiona2)
-<h2 align="center">🏆 Coding Profiles</h2>
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/sanjeetcs8t/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-sanjeetcs8t-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <img 
-    width="48%" 
-    src="https://leetcard.jacoblin.cool/Sanju_code_beginer?theme=dark&font=Karma&ext=contest&border=0" 
-  />
-
-  <img 
-    width="48%" 
-    src="https://geeks-for-geeks-stats-card.vercel.app/?username=sanjeetcs8&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api?username=sanjeetkumarcodethrust&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
+    height="180em" 
   />
 </p>
 ---
