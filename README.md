@@ -136,16 +136,17 @@
 
 ---
 ### 🏆 GeeksforGeeks Stats (Optiona2)
+<h2 align="center">🏆 Coding Profiles</h2>
+
 <p align="center">
   <img 
-    src="https://geeks-for-geeks-stats-card.vercel.app/?username=sanjeetcs8" 
-    alt="GFG stats"
+    width="48%" 
+    src="https://leetcard.jacoblin.cool/Sanju_code_beginer?theme=dark&font=Karma&ext=contest&border=0" 
   />
-</p>
-<p align="center">
+
   <img 
+    width="48%" 
     src="https://geeks-for-geeks-stats-card.vercel.app/?username=sanjeetcs8&theme=dark" 
-    alt="GFG stats"
   />
 </p>
 ---
