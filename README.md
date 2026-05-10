@@ -142,6 +142,12 @@
     alt="GFG stats"
   />
 </p>
+<p align="center">
+  <img 
+    src="https://geeks-for-geeks-stats-card.vercel.app/?username=sanjeetcs8&theme=dark" 
+    alt="GFG stats"
+  />
+</p>
 ---
 ### 💬 Quote of the Day
 > "Code is like humor. When you have to explain it, it’s bad."
