@@ -104,13 +104,12 @@
 ---
 
 ### 📈 Profile Activity Tracker
-<!-- <p align="center">
-  
+<p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=sanjeetkumarcodethrust&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" 
-    alt="GitHub Trophies"
+    width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=sanjeetkumarcodethrust&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" 
   />
-</p> -->
+</p>
 
 <p align="center">
   <img 
