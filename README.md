@@ -104,12 +104,14 @@
 ---
 
 ### 📈 Profile Activity Tracker
+
 <p align="center">
+  
   <img 
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=sanjeetkumarcodethrust&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" 
+    src="https://github-profile-trophy.vercel.app/?username=sanjeetkumarcodethrust&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" 
+    alt="GitHub Trophies"
   />
-</p>
+</p> why not show the trophy what is error in the code 
 
 <p align="center">
   <img 
