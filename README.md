@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Enthusiast;Competitive+Programmer;Building+Cool+Projects" />
 </h3>
 
----
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently learning **Competitive Programming (C++)** and **Data Science (Python)**
