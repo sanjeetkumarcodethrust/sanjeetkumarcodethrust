@@ -47,6 +47,7 @@
 ---
 
 ### 🛠️ Languages and Tools
+
 ### 🧰 Tech Stack (Visual)
 
 #### 💻 Languages
