@@ -137,10 +137,6 @@
 
 ### 🏆 LeetCode Stats (Optional)
 
-
-
-
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Sanju_code_beginer?theme=dark&font=Karma&ext=contest&border=0" />
 </p>
