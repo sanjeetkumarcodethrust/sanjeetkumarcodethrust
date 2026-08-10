@@ -55,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
 
-### 🎨 Frontend
+#### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,sass,bootstrap" />
 </p>
