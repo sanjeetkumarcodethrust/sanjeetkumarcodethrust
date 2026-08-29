@@ -143,7 +143,6 @@
 ---
 ### 🏆 GeeksforGeeks Stats (Optiona2)
 
-
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/sanjeetcs8t?tab=activity/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-sanjeetcs8t-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
