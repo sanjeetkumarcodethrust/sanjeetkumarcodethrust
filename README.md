@@ -19,7 +19,6 @@
 - ⚡ Fun fact: *I debug my code more than I write it 😄*
 
 ---
-
 ### 🌐 Connect with Me
 
 <p align="center">
