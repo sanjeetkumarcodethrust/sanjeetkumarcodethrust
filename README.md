@@ -122,8 +122,11 @@
 ###  Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeetkumarcodethrust&theme=tokyo-night"/>
-</p> 
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeetkumarcodethrust&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
  ### 🐍 Contribution Snake
 
