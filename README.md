@@ -96,6 +96,7 @@
 
 ### 🧠 Projects Showcase
 
+
 | Project | Description | Tech Stack | Repo Link |
 |----------|--------------|------------|------------|
 | 🧮 **Data Science Dashboard** | Interactive dashboard with data visualizations | Python, Plotly, Dash | [View Repo](https://github.com/sanjeetkumarcodethrust/data-science-dashboard) |
