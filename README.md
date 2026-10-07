@@ -1,7 +1,7 @@
 <!-- Sanjeet Kumar's GitHub Profile README -->
 <p align="center">
   <img
-    src="./assets/sanjeet-book.gif"
+    src="./assets/sanjeet-book-github.gif"
     width="100%"
     alt="Sanjeet Kumar Developer Journey"
   />
