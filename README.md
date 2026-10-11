@@ -12,7 +12,6 @@
 </h3>
 
 ---
-
 ### 👨‍💻 About Me
 - 🔭 I’m currently learning **Competitive Programming (C++)** and **Data Science (Python)**
 - 🧠 Strong foundation in Data Structures & Algorithms
