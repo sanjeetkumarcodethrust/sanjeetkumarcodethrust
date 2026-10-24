@@ -149,6 +149,7 @@
 
 ---
 ### 🏆 GeeksforGeeks Stats (Optiona2)
+
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/sanjeetcs8t?tab=activity/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-sanjeetcs8t-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
@@ -163,6 +164,7 @@
 </p>
 ---
 ### 💬 Quote of the Day
+
 > Code is like humor. When you have to explain it, it’s bad.
 ---
 
